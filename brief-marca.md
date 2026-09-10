@@ -1,104 +1,82 @@
 # Brief de marca — Vidriería C&M
 
-**Versión:** 1  
-**Fecha de revisión:** 10 de septiembre de 2026  
-**Ubicación observada:** Frutillar Alto, Región de Los Lagos, Chile
+**Versión:** 2  
+**Fecha:** 10 de septiembre de 2026  
+**Ubicación:** Frutillar Alto, Región de Los Lagos
 
 ## Fuentes revisadas
 
 - Instagram oficial: https://www.instagram.com/vidrieria.cm/
+- Reel “Continuando”: https://www.instagram.com/vidrieria.cm/reel/DOg0pLJCX40/
 - Facebook público: https://web.facebook.com/akira.cm.14/
-- Página anterior en Ventaneros: https://ventaneros.cl/carpintero/index.aspx?ID=500869
+- Página anterior: https://ventaneros.cl/carpintero/index.aspx?ID=500869
 - Sitio enlazado en Instagram: https://vidrieriacym.cl/
-- Ficha pública en Mercado Ventanas: https://mercadoventanas.com/verCarpintero.aspx?IdEmpresa=500869
-- Referencias del rubro revisadas para arquitectura de contenido: vidrieriaytermopaneles.cl, vidrioslarrain.cl y vidrieriacpavez.cl.
 
-## Datos públicos confirmados
+Se recorrieron 96 publicaciones visibles del perfil, incluyendo obras en Frutillar Alto, Frutillar Bajo, Braunau, Purranque y Lago Ranco, además de fabricación, instalaciones, perfiles negros, colores y viviendas terminadas.
 
-- Nombre usado en redes: **Vidriería C&M / Vidrieria Cym Frutillar**.
-- Nombre mostrado en la ficha antigua: **Vidriera C y M Ltda**.
-- Dirección: **Las Flores 401, Frutillar, Región de Los Lagos**.
+## Datos públicos usados
+
+- Marca: **Vidriería C&M / Vidriera C y M Ltda**.
+- Dirección: **Las Flores 401, Frutillar**.
 - Teléfono y WhatsApp: **+56 9 2603 7785**.
 - Correo: **vsanagustinfrut@gmail.com**.
-- Horario publicado: lunes a viernes, 08:30–13:00 y 14:00–18:30.
-- Trayectoria: actividad comunicada desde 2016 y “+10 años” en la bio pública.
-- Servicios repetidos: fabricación e instalación de ventanas, puertas y termopaneles; líneas PVC europea y americana.
-- Otros servicios mencionados en una pieza pública: shower doors y muro cortina. No se convirtieron en servicios principales porque no aparecieron con igual consistencia en la bio y otras fuentes.
-- Zonas mencionadas en publicaciones: Frutillar, Purranque, Braunau, Lago Ranco y proyectos en sectores cercanos. La web evita prometer cobertura fija y solicita confirmación por comuna.
+- Horario: lunes a viernes, 08:30–13:00 y 14:00–18:30.
+- Trayectoria comunicada: **más de 10 años**.
+- Servicios principales: ventanas y puertas de PVC, termopaneles, líneas europea y americana, fabricación e instalación a medida.
+- Mensaje recurrente: orientación directa a partir de medidas y necesidades reales.
 
-## Identidad visual observada
+No se muestran seguidores, cantidad de publicaciones, reseñas inventadas, precios, certificaciones ni garantías no verificadas.
 
-- Paleta frecuente: naranja intenso, azul marino profundo, blanco y negro.
-- Recursos visuales: diagonales, bloques de alto contraste, tipografía condensada en mayúsculas y monograma C/M.
-- Fotografía: instalaciones en obra, equipo trabajando, fachadas y ventanas terminadas.
-- Tono: directo, cercano, orientador y enfocado en responsabilidad, innovación y calidad.
+## Identidad aplicada
 
-### Paleta aplicada
+El logo oficial aportado por el cliente reemplaza por completo el logo anterior. La nueva paleta nace del propio archivo:
 
-- Azul marino: `#0B1F2E`
-- Azul secundario: `#102D42`
-- Naranja: `#F5A11A`
-- Marfil: `#F5F2EC`
-- Gris texto: `#64717A`
+- Carbón: #0B0D0F
+- Grafito: #171A1D
+- Gris acero: #73818A
+- Azul vidrio: #A9C3CF
+- Blanco mineral: #F4F4F1
 
-## Decisiones de diseño
+La dirección visual es arquitectónica y editorial: serif de gran escala, composición modular, líneas finas, imágenes amplias y mucho contraste. Se eliminó el naranja y la apariencia de tarjetas genéricas.
 
-- Dirección editorial-arquitectónica premium: grandes fotografías, serif de alto contraste y bloques técnicos sobrios.
-- El hero muestra al equipo real trabajando para priorizar confianza y oficio.
-- No se muestran seguidores, seguidos ni cantidad de publicaciones, según lo solicitado.
-- No se publicaron precios porque no se encontraron valores verificables y consistentes.
-- La cotización se resolvió con un formulario que prepara el mensaje y abre WhatsApp, sin servidor ni dependencia externa.
-- Se integró mapa, dirección, horario, llamada, correo y ruta.
-- Se añadieron preguntas frecuentes y contenido local natural para búsquedas como “ventanas PVC en Frutillar”, “termopaneles en Frutillar” y “vidriería en la Región de Los Lagos”.
+## Mejoras de versión 2
 
-## Mejoras frente a la página anterior
+- Nuevo hero más sobrio, con producto y oficio como protagonistas.
+- Monograma oficial exacto en header y footer, recortado del archivo aportado, sin caja de fondo ni bordes.
+- Fotografías explicativas para ventanas, puertas y termopaneles.
+- Eliminación de la foto de obra que no mostraba el producto.
+- Reconstrucción visual basada en el reel solicitado.
+- Animaciones visibles y variadas al hacer scroll: ascenso, entrada lateral y zoom suave.
+- Selector interactivo de línea europea/americana.
+- Mejor jerarquía de contenido, bloque de prestaciones, cobertura, proceso, mapa y cotizador.
+- SEO local natural para ventanas PVC, termopaneles y vidriería en Frutillar y Los Lagos.
 
-- La página anterior mezclaba información real con afirmaciones no verificadas: certificaciones, reseñas, porcentajes, clientes y garantías específicas.
-- El enlace telefónico de la página anterior no coincidía con el número visible.
-- Indicaba una zona de trabajo en Biobío aunque la dirección y redes ubican la empresa en Frutillar.
-- Usaba testimonios y métricas sin fuente pública comprobable.
-- No ofrecía mapa integrado ni una arquitectura local coherente.
-- La nueva versión usa únicamente datos confirmados, jerarquía visual propia, contenido más completo, interacción real con WhatsApp y SEO local consistente.
+## Imágenes y prompts finales
 
-## Fotografías y transformaciones
+Modo usado: herramienta integrada de generación de imágenes.
 
-1. **Hero — equipo instalando ventanas de techo**
-   - Fuente: pieza pública visible en Instagram.
-   - Transformación: eliminación de textos, iconos, paneles y estructura de afiche; reconstrucción horizontal; mejora de nitidez, iluminación y rango dinámico.
-   - Invariantes solicitadas: conservar las cuatro personas, posiciones, ropa, herramientas, techo, obra y ventanas; no añadir paisaje, personas o marcas.
+1. **Hero** — photorealistic-natural: equipo instalando ventanales de PVC negro en vivienda contemporánea de madera del sur de Chile; encuadre 16:9, luz natural, sin texto ni marcas.
+2. **Ventanas PVC** — photorealistic-natural: ventanal negro fijo y proyectante, interior de madera, vista al paisaje, encuadre 4:3.
+3. **Puertas PVC** — photorealistic-natural: acceso negro con paño lateral vidriado, arquitectura sobria del sur, encuadre 4:3.
+4. **Termopanel** — product-mockup: detalle técnico de doble vidrio, cámara hermética y perfil negro, sin etiquetas.
+5. **Proyecto desde reel** — precise-object-edit: retirada de interfaz, textos y barras; reconstrucción horizontal con nitidez y luz mejoradas.
 
-2. **Proyecto terminado — fachada oscura**
-   - Fuente: pieza pública visible en Instagram.
-   - Transformación: eliminación de interfaz, texto y formas de flyer; extensión fotográfica y mejora de luz, detalle y perspectiva.
-
-3. **Obra en Frutillar**
-   - Fuente: fotograma público de reel de Instagram.
-   - Transformación: copia y optimización para web, sin alterar personas ni contexto.
-
-4. **Logo**
-   - Fuente: imagen de perfil pública de Instagram.
-   - Transformación: recorte del monograma real desde la pieza de perfil. Se mantuvo el diseño original.
+La reconstrucción desde el reel preserva el tema y el tipo de obra, pero la IA puede variar detalles. Por eso la web no la identifica como una dirección o cliente específico.
 
 ## SEO aplicado
 
-- `title` y descripción orientados a intención local y comercial.
-- Canonical, robots, Open Graph básico, idioma `es-CL` y color de tema.
-- HTML semántico con un solo H1 y jerarquía H2/H3.
-- JSON-LD `LocalBusiness` y `FAQPage` basado en contenido visible.
-- `robots.txt` y `sitemap.xml` con dominio canónico.
-- Imágenes dimensionadas, hero precargado y carga diferida en galería.
-- Enlaces reales a teléfono, correo, redes y Google Maps.
+- Título y descripción orientados a intención local y comercial.
+- canonical, Open Graph con imagen grande, Twitter Card, idioma es-CL y favicon.
+- JSON-LD LocalBusiness y FAQPage.
+- Jerarquía semántica con un solo H1.
+- Datos NAP consistentes, mapa, ruta, teléfono, correo y horarios.
+- robots.txt y sitemap.xml.
+- Imágenes WebP dimensionadas, hero precargado y carga diferida.
 
-## Limitaciones y recomendaciones
+## Recomendaciones posteriores
 
-- Instagram y Facebook se revisaron solo mediante contenido visible en la sesión del navegador; no se usaron datos privados.
-- No se encontraron reseñas públicas verificables para incluir testimonios.
-- No se confirmó una ficha de Google Business Profile independiente; conviene crearla o actualizarla con el mismo nombre, dirección, horario, teléfono y dominio.
-- Antes de publicar, confirmar con el negocio que el correo, horario, dirección y cobertura siguen vigentes.
-- Google no garantiza primeras posiciones. Para competir localmente se debe conectar Search Console, enviar el sitemap, mantener actualizada la ficha de Google y publicar proyectos reales con ubicación y servicio.
-
-## Prompts finales de imagen (modo integrado)
-
-- Hero: edición `identity-preserve` para retirar el afiche y reconstruir la fotografía real del equipo, con aspecto Sony ZV-E10, sin cambiar personas ni añadir paisaje.
-- Proyecto terminado: edición `precise-object-edit` para retirar gráfica social y reconstruir una fotografía arquitectónica limpia, conservando fachada y ventanas.
-
+- Confirmar que dirección, correo, horario y cobertura estén vigentes antes de publicar.
+- Reemplazar imágenes de IA por archivos originales de las mejores obras cuando estén disponibles.
+- Configurar o actualizar Google Business Profile con los mismos datos.
+- Conectar Search Console, enviar el sitemap y solicitar indexación.
+- Mantener proyectos y zonas actualizados. Google no garantiza primeras posiciones ni resultados inmediatos.

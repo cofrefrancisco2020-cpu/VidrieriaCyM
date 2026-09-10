@@ -1,4 +1,4 @@
-# Vidriería C&M — versión 1
+# Vidriería C&M — versión 2
 
 Sitio web estático listo para GitHub y Vercel. No usa Vite, Node, npm ni proceso de compilación.
 
@@ -6,36 +6,31 @@ Sitio web estático listo para GitHub y Vercel. No usa Vite, Node, npm ni proces
 
 1. Sube **todo el contenido de esta carpeta** a la raíz de un repositorio de GitHub.
 2. En Vercel, selecciona **Add New → Project** e importa ese repositorio.
-3. Deja **Framework Preset** en `Other`.
-4. No agregues Build Command ni Output Directory.
-5. Publica el proyecto.
+3. En **Framework Preset**, selecciona “Other”.
+4. Deja vacíos **Build Command** y **Output Directory**.
+5. Publica.
 
-El archivo `vercel.json` ya contiene la configuración de cabeceras y caché. `index.html` es la página principal.
+El archivo vercel.json ya contiene la configuración. index.html es la página principal.
 
-## Archivos principales
+## Archivos
 
-- `index.html`: estructura, textos, SEO y datos estructurados.
-- `styles.css`: diseño responsive y animaciones.
-- `script.js`: menú móvil, animaciones, FAQ y cotizador hacia WhatsApp.
-- `vercel.json`: configuración segura para Vercel.
-- `robots.txt` y `sitemap.xml`: indexación.
-- `assets/`: imágenes finales usadas por la web.
-- `brief-marca.md`: investigación, decisiones y limitaciones.
-
-## Funcionalidad
-
-- El formulario prepara un mensaje con los datos ingresados y abre WhatsApp al número público de la empresa.
-- El mapa está integrado con Google Maps y también incluye un enlace de ruta.
-- Los enlaces de llamada, correo, Instagram y Facebook son reales.
+- index.html: contenido, SEO, mapa y datos estructurados.
+- styles.css: diseño responsive y sistema de animaciones.
+- script.js: menú móvil, entradas al hacer scroll, selector de sistema, FAQ y cotizador por WhatsApp.
+- robots.txt y sitemap.xml: base de indexación.
+- assets/: las seis imágenes finales usadas.
+- brief-marca.md: fuentes, decisiones y limitaciones.
 
 ## Imágenes
 
-- `hero-equipo-instalacion-ai.jpg`: reconstrucción fotográfica basada en una publicación real; se eliminaron textos y gráfica de afiche y se mejoró la calidad.
-- `proyecto-ventanas-madera-ai.jpg`: reconstrucción limpia basada en una publicación real de un proyecto terminado.
-- `obra-frutillar-real.jpg`: imagen real de obra publicada por la marca, sin edición de identidad.
-- `logo-vidrieria-cym.jpg`: recorte del logo visible en el perfil oficial de Instagram.
+- logo-cym-transparente.png: logo completo exacto, separado de su fondo para metadatos y favicon.
+- logo-cym-marca-blanca.png: monograma C&M exacto, recortado en blanco y transparente para header y footer.
+- hero-instalacion-pvc.webp: escena de instalación generada con IA a partir del rubro y el contexto visual observado.
+- servicio-ventanas-pvc.webp, servicio-puertas-pvc.webp y servicio-termopanel.webp: fotografías de producto generadas con IA.
+- proyecto-instalacion-reel.webp: reconstrucción mejorada basada en el reel “Continuando”, sin interfaz ni textos.
 
-## Antes de usar el dominio definitivo
+Las imágenes de IA son recursos comerciales de presentación. Para una representación documental exacta de una obra específica, reemplázalas por fotografías originales entregadas por la empresa.
 
-El SEO usa `https://vidrieriacym.cl/` como dominio canónico porque es el sitio enlazado desde el Instagram oficial. Si se publica en otro dominio, reemplaza esa URL en `index.html`, `robots.txt` y `sitemap.xml`.
+## Dominio y SEO
 
+La configuración usa https://vidrieriacym.cl/ como dominio canónico. Si se publica en otro dominio, reemplázalo en index.html, robots.txt y sitemap.xml.
